@@ -12,3 +12,5 @@ debut achatBonbon (reel argent, reel prix)
     retourne quantite
 
 fin achatBonbon
+
+achatBonbon(12.45, 1.14)
